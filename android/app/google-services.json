@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144275647608",
+    "project_id": "appcomprasevendasflutter-82092",
+    "storage_bucket": "appcomprasevendasflutter-82092.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144275647608:android:df7b35805e06d4babcd18d",
+        "android_client_info": {
+          "package_name": "com.example.appcompraevendas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144275647608-upv6ncvc47e9tqae4r4mb0gsdcrqalgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3qK6URidOm_Z3YC8mQea-gnLtn9FN2s0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144275647608-upv6ncvc47e9tqae4r4mb0gsdcrqalgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
